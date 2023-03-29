@@ -1,4 +1,5 @@
-import opencv python-headless as cv2
+pip install opencv-python
+import cv2
 import streamlit as st
 import numpy as np
 from PIL import Image
